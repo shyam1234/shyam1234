@@ -1,4 +1,4 @@
-### Hello friend, I'm Prafull. How are you?
+### Hello friend, I'm Prafulla. How are you?
 
 I'm a software engineer who is passionate about building intuitive and powerful applications. The thing I value most in programming is consistency. 
 <!--
