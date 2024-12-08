@@ -8,10 +8,6 @@ Turning ideas into impactful apps and creating seamless digital experiences.
 
 ---
 
-![Profile Banner](https://wallpapercave.com/wp/wp1828920.jpg)
-
----
-
 ## 🚀 **About Me**  
 
 🔹 **Who I Am:** A passionate developer with a knack for solving problems and building scalable, user-centric applications.  
